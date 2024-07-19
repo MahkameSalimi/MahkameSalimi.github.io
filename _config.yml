@@ -22,12 +22,12 @@ repository               : "MahkameSalimi/MahkameSalimi.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Mahkame Salimi"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD student at University of Calgary"
   location         : "Calgary, CA"
-  employer         : "NRCAN / University of Calgary"
-  uri              : # URL
+  employer         : "Natural Resources Canada"
+  uri              :
   email            : "Mahkame.Salimimoghad@ucalgary.ca"
 
   # Academic websites
